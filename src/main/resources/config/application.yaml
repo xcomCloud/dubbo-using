@@ -1,0 +1,6 @@
+server:
+  port: 8801
+logging:
+  file: logs/dubbo-using.log
+  level:
+    root: info
