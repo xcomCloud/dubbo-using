@@ -1,0 +1,7 @@
+# git ignore
+*.iml
+README.md
+.idea
+src/test
+logs/
+target/

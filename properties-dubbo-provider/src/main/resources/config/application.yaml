@@ -1,0 +1,6 @@
+server:
+  port: 8801
+logging:
+  file: properties-dubbo-provider/logs/properties-dubbo-provider.log
+  level:
+    root: info

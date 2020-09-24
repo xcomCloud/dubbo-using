@@ -1,0 +1,6 @@
+server:
+  port: 8802
+logging:
+  file: properties-dubbo-consumer/logs/properties-dubbo-consumer.log
+  level:
+    root: info
